@@ -34,10 +34,39 @@ h3 {
 
 /*"The Classy Roommate"*/
 
-
+#audrey {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+#audrey {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  /*Add this line to your CSS!*/
+  border: 15px solid red;
+}
 
 /*"The Neurotic New Yorker"*/
-
+#woody {
+  padding-top: 55.5px;
+  padding-bottom: 55.5px;
+  padding-left: 32.5px;
+  padding-right: 32.5px;
+  background-color: white;
+}
+#woody {
+    padding-top: 55.5px;
+    padding-bottom: 55.5px;
+    padding-left: 32.5px;
+    padding-right: 32.5px;
+    background-color: white;
+    <!-- Add this to your CSS! -->
+    border: 15px solid red;
+}
+#newyork {
+  border: 15px solid red;
+}
 
 /*"The Art History Major"*/
 
